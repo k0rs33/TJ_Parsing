@@ -5,7 +5,7 @@
 3. Запись метрик
 4. Выгрузка записей в БД
 '''
-
+"""KORREKTIRYU"""
 import os
 import re
 import pyodbc
